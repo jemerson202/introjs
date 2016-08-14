@@ -1,0 +1,15 @@
+{
+  "name": "introjs",
+  "version": "1.0.0",
+  "description": "Some activities for a Montana Code School Introduction to JavaScript Class",
+  "main": "",
+  "scripts": {
+    "test": "mocha --reporter spec *Test.js"
+  },
+  "author": "Harold Shinsato",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
