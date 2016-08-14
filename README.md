@@ -4,7 +4,7 @@ These are test driven development oriented exercises from the
 [Introduction to JavaScript and Web Development](http://montanacodeschool.com/other-courses/intro-to-javascript-web-development-26501983145/) two day class
 offered by [Montana Code School](http://montanacodeschool.com).
 
-The first is from the (Fizz Buzz drinking game)[https://en.wikipedia.org/wiki/Fizz_buzz], where multiples of 3 are converted to 'Fizz', multiples of 5 to 'Buzz', and
+The first is from the [Fizz Buzz drinking game](https://en.wikipedia.org/wiki/Fizz_buzz), where multiples of 3 are converted to 'Fizz', multiples of 5 to 'Buzz', and
 multiples of 3 and 5 are converted to 'FizzBuzz'. You need to add to the
 implementation in fizzBuzz.js. And change the "xit" tests to "it" to activate them in
 fizzBuzzTest.js.
