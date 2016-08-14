@@ -6,7 +6,7 @@ describe("RomanNumeralConverter", function() {
     //Arrange
     var expected = 1;
     //Act
-    var actual = fizzBuzz("I");
+    var actual = romanNumeralConverter("I");
     //Assert
     assert.equal(actual, expected);
   });
@@ -15,7 +15,7 @@ describe("RomanNumeralConverter", function() {
     //Arrange
     var expected = 5;
     //Act
-    var actual = fizzBuzz("V");
+    var actual = romanNumeralConverter("V");
     //Assert
     assert.equal(actual, expected);
   });
