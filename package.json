@@ -2,7 +2,7 @@
   "name": "introjs",
   "version": "1.0.0",
   "description": "Some activities for a Montana Code School Introduction to JavaScript Class",
-  "main": "",
+  "main": "fizzBuzz.js",
   "scripts": {
     "test": "mocha --reporter spec *Test.js"
   },
@@ -11,5 +11,14 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.0.2"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jemerson202/introjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jemerson202/introjs/issues"
+  },
+  "homepage": "https://github.com/jemerson202/introjs#readme"
 }
